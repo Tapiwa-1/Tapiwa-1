@@ -13,7 +13,6 @@ I'm Tapiwa Motsi from Zimbabwe, I am a fullstack developer. l really enjoy worki
 
 ### Recent Work
 
-| FirstName     | LastName      | City   
-| ------------- | ------------- | --------    |
-| `John`        | Test1         | `NewYork`   |
-| `Bob`         | Test2         | `Toronto`   |
+| ------------- | ------------- |
+| `John`        | Test1         |
+| `Bob`         | Test2         | 

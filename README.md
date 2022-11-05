@@ -12,4 +12,4 @@ I'm Tapiwa Motsi from Zimbabwe, I am a fullstack developer. l really enjoy worki
 [![Tapiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapiwa-1)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Latest Work
-<img width="450" src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/home.JPG"/>
+<img width="450" href="https://github.com/Tapiwa-1/localmlg" src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/home.JPG"/>

@@ -4,7 +4,7 @@
 
 I'm Tapiwa Motsi from Zimbabwe, I am a fullstack developer. l really enjoy working with emerging web technologies such as VueJs and Vue Ecosystem , Laravel and Laravel Ecosystem, InertiaJs and Developing RestAPIs. I aslo enjoying wireframing, ui, ux and design in general
 
-####Skills and Experience
+#### Skills and Experience
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,php,python,cs,laravel,tailwind,heroku,js,vue&perline=10)](https://skillicons.dev)
 
 - 🔭 I’m currently working on Ministry Of Local Govement, Zimbabwe

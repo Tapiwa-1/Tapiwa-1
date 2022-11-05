@@ -10,3 +10,10 @@ I'm Tapiwa Motsi from Zimbabwe, I am a fullstack developer. l really enjoy worki
 - 🔭 I’m currently working on Ministry Of Local Govement, Zimbabwe
 
 [![Tapiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapiwa-1)](https://github.com/anuraghazra/github-readme-stats)
+
+### Recent Work
+
+| FirstName     | LastName      | City   
+| ------------- | ------------- | --------    |
+| `John`        | Test1         | `NewYork`   |
+| `Bob`         | Test2         | `Toronto`   |

@@ -13,7 +13,7 @@ I'm Tapiwa Motsi from Zimbabwe, I am a fullstack developer. l really enjoy worki
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tapiwa-1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapiwa-1&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-|[![Tapiwa stats](https://github-readme-stats.vercel.app/api/wakatime?username=tapiwa-1)](https://github.com/anuraghazra/github-readme-stats)|[![Tapiwa stats](https://github-readme-stats.vercel.app/api/wakatime?username=tapiwa-1)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Tapiwa stats](https://github-readme-stats.vercel.app/api/wakatime?username=tapiwa-1)](https://github.com/tapiwa-1/github-readme-stats)|[![Tapiwa stats](https://github-readme-stats.vercel.app/api/wakatime?username=tapiwa-1)](https://github.com/tapiwa-1/github-readme-stats)|
 | ------------- | ------------- |
 
 ### Latest Work

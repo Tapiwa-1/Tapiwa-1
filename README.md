@@ -12,6 +12,6 @@ I'm Tapiwa Motsi from Zimbabwe, I am a fullstack developer. l really enjoy worki
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tapiwa-1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Tapiwa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tapiwa-1&theme=vue)](https://github.com/tapiwa-1/github-readme-activity-graph)
+[![Tapiwa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tapiwa_1&theme=vue)](https://github.com/tapiwa-1/github-readme-activity-graph)
 
 

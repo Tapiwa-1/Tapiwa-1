@@ -11,6 +11,14 @@ I'm Tapiwa Motsi from Zimbabwe, I am a fullstack developer. l really enjoy worki
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
+
+```text
+Vue.js       1 hr 6 mins     ███████████▒░░░░░░░░░░░░░   45.55 %
+JavaScript   1 hr 3 mins     ███████████░░░░░░░░░░░░░░   43.42 %
+PHP          16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Tapiwa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tapiwa-1&theme=vue)](https://github.com/tapiwa-1/github-readme-activity-graph)

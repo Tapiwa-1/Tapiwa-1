@@ -15,10 +15,11 @@ I'm Tapiwa Motsi from Zimbabwe, I am a fullstack developer. l really enjoy worki
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       9 hrs 20 mins   █████████████████▓░░░░░░░   70.68 %
-JavaScript   2 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
-Bash         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Vue.js       10 hrs 15 mins  ████████████████████░░░░░   80.56 %
+JavaScript   1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+Bash         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->

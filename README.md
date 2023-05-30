@@ -18,9 +18,7 @@ I proudly introduce myself as a Fullstack Developer with a diverse skill set tha
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   44 mins         ██████████░░░░░░░░░░░░░░░   39.87 %
-Vue.js     39 mins         █████████░░░░░░░░░░░░░░░░   36.12 %
-PHP        26 mins         ██████░░░░░░░░░░░░░░░░░░░   24.01 %
+Markdown   44 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

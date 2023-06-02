@@ -17,7 +17,7 @@ I proudly introduce myself as a Fullstack Developer with a diverse skill set tha
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Markdown   44 mins         █████████████████████████   100.00 %
 ```
 

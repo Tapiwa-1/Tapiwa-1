@@ -27,7 +27,6 @@ Bash         6 mins          █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-[![Tapiwa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tapiwa-1&theme=vue)](https://github.com/tapiwa-1/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tapiwa-1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 

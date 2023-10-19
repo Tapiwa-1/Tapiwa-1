@@ -19,8 +19,8 @@ I proudly introduce myself as a Fullstack Developer with a diverse skill set tha
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   27 mins         ███████████████████████▓░   94.05 %
-HTML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+TypeScript   11 mins         █████████████████████▓░░░   87.15 %
+HTML         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
 ```
 
 <!--END_SECTION:waka-->

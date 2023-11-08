@@ -14,6 +14,7 @@ I proudly introduce myself as a Fullstack Developer with a diverse skill set tha
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tapiwa-1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapiwa-1&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+
 ### Coding stats
 
 <!--START_SECTION:waka-->

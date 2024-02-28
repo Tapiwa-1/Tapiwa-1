@@ -19,11 +19,11 @@ I proudly introduce myself as a Fullstack Developer with a diverse skill set tha
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js           1 hr 54 mins    ███████████▒░░░░░░░░░░░░░   45.73 %
-PHP              1 hr 38 mins    ██████████░░░░░░░░░░░░░░░   39.59 %
-JavaScript       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-JSON             9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Text             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Vue.js           3 hrs 36 mins   ████████████████░░░░░░░░░   63.56 %
+PHP              1 hr 22 mins    ██████░░░░░░░░░░░░░░░░░░░   24.08 %
+JavaScript       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Text             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+JSON             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 ```
 
 <!--END_SECTION:waka-->

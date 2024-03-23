@@ -19,7 +19,9 @@ I proudly introduce myself as a Fullstack Developer with a diverse skill set tha
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP              3 mins          ███████████░░░░░░░░░░░░░░   43.75 %
+Blade Template   2 mins          █████████▒░░░░░░░░░░░░░░░   37.95 %
+Bash             1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
 ```
 
 <!--END_SECTION:waka-->

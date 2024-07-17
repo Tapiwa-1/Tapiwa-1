@@ -19,11 +19,11 @@ I proudly introduce myself as a Fullstack Developer with a diverse skill set tha
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       2 hrs 30 mins   █████████████████▒░░░░░░░   69.00 %
-Blade Template   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-JavaScript       16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-HTML             14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-Vue.js           10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+TypeScript       1 hr 53 mins    █████████████████░░░░░░░░   68.42 %
+Blade Template   16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+Vue.js           10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+PHP              9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+JavaScript       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
 ```
 
 <!--END_SECTION:waka-->

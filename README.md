@@ -18,7 +18,9 @@ I proudly introduce myself as a Fullstack Developer with a diverse skill set tha
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML   31 mins         █████████████████████████   99.77 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->

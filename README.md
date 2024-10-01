@@ -25,7 +25,5 @@ PHP          49 mins         █▒░░░░░░░░░░░░░░░
 Text         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
-<!--END_SECTION:waka-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tapiwa-1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
